@@ -1,0 +1,457 @@
+[
+  {
+    "recipe_name": "Banana Bread", 
+    "recipe_description": "Classic Banana Bread: Sweet, moist and full of flavor.", 
+    "course_name": "Snack",
+    "ingredients":[
+        {
+            "ingredient_quantity":"130 g",
+            "ingredient_name": "unsalted butter",
+            "ingredient_type": "Dairy"
+        },
+        {
+            "ingredient_quantity":"350 g",
+            "ingredient_name": "ripe bananas",
+            "ingredient_type": "Fruit"
+        },
+        {
+            "ingredient_quantity":"150 g",
+            "ingredient_name": "sugar",
+            "ingredient_type": "Sweets"
+        },
+        {
+            "ingredient_quantity":"2",
+            "ingredient_name": "eggs",
+            "ingredient_type": "Protein"
+        },
+        {
+            "ingredient_quantity":"220 g",
+            "ingredient_name": "plain flour",
+            "ingredient_type": "Baking"
+        },
+        {
+            "ingredient_quantity":"2 tsp",
+            "ingredient_name": "baking powder",
+            "ingredient_type": "Baking"
+        },
+        {
+            "ingredient_quantity":"1 pinch",
+            "ingredient_name": "salt",
+            "ingredient_type": "Condiment"
+        },
+        {
+            "ingredient_quantity":"1 tsp",
+            "ingredient_name": "baking soda",
+            "ingredient_type": "Baking"
+        },
+        {
+            "ingredient_quantity":"100 g",
+            "ingredient_name": "buttermilk",
+            "ingredient_type": "Dairy"
+        },
+        {
+            "ingredient_quantity":"2 tsp",
+            "ingredient_name": "natural vainilla extract",
+            "ingredient_type": "Baking"
+        }
+    ],
+    "recipe_steps": [
+        "1. Preheat oven to 180°C. Grease a deep-sided loaf tin 25 x 10 x 11 cm and set aside.", 
+        "2. Place ripe bananas into mixing bowl and mash.", 
+        "3. Add unsalted butter and caster sugar and mix until combined. Scrape down sides of mixing bowl with spatula.", 
+        "4. Add eggs and mix. Add plain flour, baking powder, salt, baking soda, buttermilk and natural vanilla extract and combine.",
+        "5. Pour into prepared loaf tin and bake for 50-60 minutes 180°C or until a wooden skewer inserted into the centre of the bread comes out clean.",
+        "6. Allow to cool in tin for 30 minutes before turning out onto a wire rack. Serve warm or allow to cool completely before transferring into a sealable container until ready to use."
+    ],
+    "prep_time": "00:10:00",
+    "cook_time": "00:30:00"
+  },
+  {
+    "recipe_name": "Pulled Pork Sandwish", 
+    "recipe_description": "Delicious pulled pork with a fresh slaw inside a bun, what could be better?.", 
+    "course_name": "Lunch",
+    "ingredients":[
+        {
+            "ingredient_quantity":"1 tsp",
+            "ingredient_name": "dried chilli flakes",
+            "ingredient_type": "Condiment"
+        },
+        {
+            "ingredient_quantity":"1 tsp",
+            "ingredient_name": "smoked paprika",
+            "ingredient_type": "Condiment"
+        },
+        {
+            "ingredient_quantity":"1 tsp",
+            "ingredient_name": "mustard powder",
+            "ingredient_type": "Condiment"
+        },
+        {
+            "ingredient_quantity":"1/4 tsp",
+            "ingredient_name": "fine sea salt",
+            "ingredient_type": "Condiment"
+        },
+        {
+            "ingredient_quantity":"1/4 tsp",
+            "ingredient_name": "ground black pepper",
+            "ingredient_type": "Condiment"
+        },
+        {
+            "ingredient_quantity":"450 g",
+            "ingredient_name": "pork fillet",
+            "ingredient_type": "Protein"
+        },
+        {
+            "ingredient_quantity":"700 g + 1 Tbsp",
+            "ingredient_name": "water",
+            "ingredient_type": "Drink"
+        },
+        {
+            "ingredient_quantity":"70 g",
+            "ingredient_name": "barbecue sauce",
+            "ingredient_type": "Condiment"
+        },
+        {
+            "ingredient_quantity":"2 tsp",
+            "ingredient_name": "Dijon mustard",
+            "ingredient_type": "Condiment"
+        },
+        {
+            "ingredient_quantity":"1 tsp",
+            "ingredient_name": "cider vinegar",
+            "ingredient_type": "Condiment"
+        },
+        {
+            "ingredient_quantity":"4",
+            "ingredient_name": "brioche burger buns",
+            "ingredient_type": "Breads"
+        }
+    ],
+    "recipe_steps": [
+        "1. In a bowl, place chilli flakes, paprika, mustard powder, salt and pepper then mix together well.",
+        "2. Place bowl on mixing bowl lid and weigh in pork pieces. Remove bowl, rub spice mix over pork pieces then place pork in a separate dish and set aside.",
+        "3. Place water in pot. Place covered steamer into position then steam 20 min until pork is cooked through. Discard contents of pot.",
+        "4. Place cooked pork in mixing bowl tand shred.",
+        "5. Add barbecue sauce, Dijon mustard, cider vinegar and remaining 1 Tbsp water then mix.  Serve hot, in a brioche burger bun, with salad or coleslaw."
+    ],
+    "prep_time": "00:10:00",
+    "cook_time": "00:30:00"
+  },
+  {
+    "recipe_name": "Low Carb Breakfast Frittata", 
+    "recipe_description": "Delicious and guitl free!", 
+    "course_name": "Breakfast",
+    "ingredients":[
+        {
+            "ingredient_quantity":"80 g",
+            "ingredient_name": "cheddar cheese",
+            "ingredient_type": "Dairy"
+        },
+        {
+            "ingredient_quantity":"6",
+            "ingredient_name": "eggs",
+            "ingredient_type": "Protein"
+        },
+        {
+            "ingredient_quantity":"2 Tbsp",
+            "ingredient_name": "double cream",
+            "ingredient_type": "Dairy"
+        },
+        {
+            "ingredient_quantity":"2",
+            "ingredient_name": "spring onions",
+            "ingredient_type": "Vegetable"
+        },
+        {
+            "ingredient_quantity":"1/2 tsp",
+            "ingredient_name": "dried parsley",
+            "ingredient_type": "Condiment"
+        },
+        {
+            "ingredient_quantity":"1 pinch",
+            "ingredient_name": "ground black pepper",
+            "ingredient_type": "Condiment"
+        },
+        {
+            "ingredient_quantity":"1 Tbsp",
+            "ingredient_name": "olive oil",
+            "ingredient_type": "oil"
+        },
+        {
+            "ingredient_quantity":"6 slices",
+            "ingredient_name": "bacon",
+            "ingredient_type": "Protein"
+        },
+        {
+            "ingredient_quantity":"80 g",
+            "ingredient_name": "fresh spinach",
+            "ingredient_type": "Vegetable"
+        }
+    ],
+    "recipe_steps": [
+        "1. Preheat oven to 180°C.",
+        "2. Grate Cheddar and set aside.",
+        "3. Place eggs, cream, spring onions, parsley, salt and pepper in mixing bowl then mix. Add 60 g reserved grated Cheddar and mix well.",
+        "4. Heat oil in an oven-proof frying pan (approx. Ø 26 cm) over a medium-low heat. Add bacon and cook until crispy (approx. 5 minutes.)",
+        "5. Add spinach and cook until wilted (approx. 1 minute.)", 
+        "6. Pour egg mixture into frying pan over bacon and spinach, then cook without stirring for approx. 5 minutes or until eggs are almost set.",
+        "7. Sprinkle remaining reserved Cheddar over frittata and place frying pan in oven for 15 minutes (180°C) until eggs are set.",
+        "8. Serve warm or cold."    
+    ],
+    "prep_time": "00:20:00",
+    "cook_time": "00:40:00"
+  },
+  {
+    "recipe_name": "Tzatziki", 
+    "recipe_description": "Creamy and fresh, greek style, cucumber salad. Perfect for a summer snack!", 
+    "course_name": "Snack",
+    "ingredients":[
+        {
+            "ingredient_quantity":"2",
+            "ingredient_name": "cucumbers",
+            "ingredient_type": "Fruit"
+        },
+        {
+            "ingredient_quantity":"1 tsp",
+            "ingredient_name": "fine sea salt",
+            "ingredient_type": "Condiment"
+        },
+        {
+            "ingredient_quantity":"1",
+            "ingredient_name": "garlic cloves",
+            "ingredient_type": "Condiment"
+        },
+        {
+            "ingredient_quantity":"1 sprig",
+            "ingredient_name": "fresh dill",
+            "ingredient_type": "Condiment"
+        },
+        {
+            "ingredient_quantity":"350 g",
+            "ingredient_name": "greek style natural yogurt",
+            "ingredient_type": "Dairy"
+        },
+        {
+            "ingredient_quantity":"20 g",
+            "ingredient_name": "lemon juice",
+            "ingredient_type": "Fruit"
+        },
+        {
+            "ingredient_quantity":"30 g",
+            "ingredient_name": "extra virgin olive oil",
+            "ingredient_type": "Oil"
+        },
+        {
+            "ingredient_quantity":"1 pinch",
+            "ingredient_name": "ground black pepper",
+            "ingredient_type": "Condiment"
+        }
+    ],
+    "recipe_steps": [
+        "1. Place diced cucumbers and salt into mixing bowl.",
+        "2. Transfer into simmering basket and leave to drain for approx. 10 minutes. Squeeze excess liquid out of cucumber then transfer cucumber into a bowl and set aside. Clean and dry mixing bowl.",
+        "3. Place garlic and dill or mint into mixing bowl and mix. Scrape down sides of mixing bowl with spatula.",
+        "4. Add all remaining ingredients, including reserved cucumber, and combine.",
+        "5. Serve immediately or refrigerate until ready to use."
+    ],
+        "prep_time": "00:05:00",
+        "cook_time": "00:15:00"
+  },
+  {
+    "recipe_name": "Skillet Chocolate Chip Cookie", 
+    "recipe_description": "Delicious desert big enough to share!", 
+    "course_name": "Snack",
+    "ingredients":[
+        {
+            "ingredient_quantity":"6 oz",
+            "ingredient_name": "unsalted butter",
+            "ingredient_type": "Dairy"
+        },
+        {
+            "ingredient_quantity":"2 oz",
+            "ingredient_name": "cream cheese",
+            "ingredient_type": "Dairy"
+        },
+        {
+            "ingredient_quantity":"2",
+            "ingredient_name": "eggs",
+            "ingredient_type": "Protein"
+        },
+        {
+            "ingredient_quantity":"5 oz",
+            "ingredient_name": "brown sugar",
+            "ingredient_type": "Sweets"
+        },
+        {
+            "ingredient_quantity":"3 1/2 oz",
+            "ingredient_name": "sugar",
+            "ingredient_type": "Sweets"
+        },
+        {
+            "ingredient_quantity":"1 tsp",
+            "ingredient_name": "vainilla",
+            "ingredient_type": "Baking"
+        },
+        {
+            "ingredient_quantity":"10 oz",
+            "ingredient_name": "all-purpose flour",
+            "ingredient_type": "Baking"
+        },
+        {
+            "ingredient_quantity":"1 tsp",
+            "ingredient_name": "baking soda",
+            "ingredient_type": "Baking"
+        }, 
+        {
+            "ingredient_quantity":"1/2 tsp",
+            "ingredient_name": "salt",
+            "ingredient_type": "Condiment"
+        }, 
+        {
+            "ingredient_quantity":"10 oz",
+            "ingredient_name": "bittersweet chocolate chunks",
+            "ingredient_type": "Sweets"
+        },
+        {
+            "ingredient_quantity":"To serve",
+            "ingredient_name": "vainilla ice cream",
+            "ingredient_type": "Sweets"
+        }
+    ],
+    "recipe_steps": [
+        "1. Preheat oven to 325°F. Grease a skillet (10 in.) and set aside.",
+        "2. Place butter and cream cheese into mixing bowl and mix.",
+        "3. Add eggs and mix.",
+        "4. Add brown sugar, sugar, vanilla, flour, baking soda, and salt and mix. Scrape down sides of mixing bowl with spatula.",
+        "5. Add chocolate chunks and mix. Scrape sides and bottom of mixing bowl with spatula and stir to further combine.",
+        "6. Transfer to prepared skillet, press to form an even surface and bake for 30-32 minutes (325°F). For a firmer cookie bake a further 5-10 minutes. Serve warm with vanilla ice cream."
+    ],
+        "prep_time": "00:10:00",
+        "cook_time": "00:30:00"
+  }, 
+  {
+    "recipe_name": "Lobster and Tarragon Risotto", 
+    "recipe_description": "Creamy rice with lobster, italian style!", 
+    "course_name": "Dinner",
+    "ingredients":[
+        {
+            "ingredient_quantity":"75 g",
+            "ingredient_name": "parmesan cheese",
+            "ingredient_type": "Dairy"
+        },
+        {
+            "ingredient_quantity":"3-4 sprigs",
+            "ingredient_name": "fresh tarragon",
+            "ingredient_type": "Condiment"
+        },
+        {
+            "ingredient_quantity":"90 g",
+            "ingredient_name": "shallots",
+            "ingredient_type": "vegetable"
+        },
+        {
+            "ingredient_quantity":"3",
+            "ingredient_name": "garlic cloves",
+            "ingredient_type": "Condiment"
+        },
+        {
+            "ingredient_quantity":"40 g",
+            "ingredient_name": "extra virgin olive oil",
+            "ingredient_type": "Oil"
+        },
+        {
+            "ingredient_quantity":"200 g",
+            "ingredient_name": "tinned choped tomatoes",
+            "ingredient_type": "vegetable"
+        },
+        {
+            "ingredient_quantity":"350 g",
+            "ingredient_name": "risotto rice",
+            "ingredient_type": "Cereal"
+        },
+        {
+            "ingredient_quantity":"30 g",
+            "ingredient_name": "brandy",
+            "ingredient_type": "Drink"
+        }, 
+        {
+            "ingredient_quantity":"1/4 tsp",
+            "ingredient_name": "ground cayenne pepper",
+            "ingredient_type": "Condiment"
+        }, 
+        {
+            "ingredient_quantity":"2 tsp",
+            "ingredient_name": "fine sea salt",
+            "ingredient_type": "Condiment"
+        },
+        {
+            "ingredient_quantity":"1/4 tsp",
+            "ingredient_name": "ground black pepper",
+            "ingredient_type": "Condiment"
+        },
+        {
+            "ingredient_quantity":"200 g",
+            "ingredient_name": "lobster tail meat",
+            "ingredient_type": "Protein"
+        },
+        {
+            "ingredient_quantity":"4",
+            "ingredient_name": "fresh chives",
+            "ingredient_type": "Condiment"
+        }
+    ],
+    "recipe_steps": [
+        "1. Grate parmesan and set aside.",
+        "2. Chop the tarragon and set aside.",
+        "3. Chop shallots and garlic and mix with oil and 25 g butter. Transfer to a pot and sauté.",
+        "4. Add tomatoes and rice then, without measuring cup, cook 2 min. Scrape base of pot to loosen rice.",
+        "5. Add brandy and cook 2 min",
+        "6. Add boiling stock, reserved chopped tarragon, cayenne pepper, salt and pepper then cook 12 min.",
+        "7. Add lobster, stir in gently then cook 1 min",
+        "8. Add 50 g butter and reserved Parmesan then stir gently. Adjust seasoning if desired, then leave to stand for 2 minutes. Serve immediately garnished with chopped chives."
+    ],
+        "prep_time": "00:10:00",
+        "cook_time": "00:35:00"
+  }, 
+  {
+    "recipe_name": "Simple Granola", 
+    "recipe_description": "Sweet and tasty granola from scratch", 
+    "course_name": "Breakfast",
+    "ingredients":[
+        {
+            "ingredient_quantity":"100 g",
+            "ingredient_name": "mixed whole nuts",
+            "ingredient_type": "Condiment"
+        },
+        {
+            "ingredient_quantity":"300 g",
+            "ingredient_name": "rolled oats",
+            "ingredient_type": "Cereal"
+        },
+        {
+            "ingredient_quantity":"80 g",
+            "ingredient_name": "mixed seeds",
+            "ingredient_type": "Condiment"
+        },
+        {
+            "ingredient_quantity":"100 g",
+            "ingredient_name": "dried fruit",
+            "ingredient_type": "Fruit"
+        },
+        {
+            "ingredient_quantity":"120 - 160 g",
+            "ingredient_name": "maple syrup or hiney",
+            "ingredient_type": "Sweets"
+        }
+    ],
+    "recipe_steps": [
+      "1. Preheat oven to 160°C and line 2 large baking trays with baking paper.",
+      "2. Chop nuts.",
+      "3. Add oats, seeds, dried fruit and maple syrup and mix.",
+      "4. Divide between prepared trays and spread out evenly.",
+      "5. Bake for 15-20 minutes (160°C), stirring every 5 minutes. Set trays aside on a wire rack until granola is cool and crunchy. Store in an airtight container until needed."
+    ],
+        "prep_time": "00:05:00",
+        "cook_time": "00:25:00"
+  }
+]

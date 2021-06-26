@@ -1,0 +1,222 @@
+[
+  {
+    "ingredient_name": "unsalted butter",
+    "ingredient_type": "Dairy"
+  },
+  {
+    "ingredient_name": "ripe bananas",
+    "ingredient_type": "Fruit"
+  },
+  {
+    "ingredient_name": "sugar",
+    "ingredient_type": "Sweets"
+  },
+  {
+    "ingredient_name": "eggs",
+    "ingredient_type": "Protein"
+  },
+  {
+    "ingredient_name": "plain flour",
+    "ingredient_type": "Baking"
+  },
+  {
+    "ingredient_name": "baking powder",
+    "ingredient_type": "Baking"
+  },
+  {
+    "ingredient_name": "salt",
+    "ingredient_type": "Condiment"
+  },
+  {
+    "ingredient_name": "baking soda",
+    "ingredient_type": "Baking"
+  },
+  {
+    "ingredient_name": "buttermilk",
+    "ingredient_type": "Dairy"
+  },
+  {
+    "ingredient_name": "natural vainilla extract",
+    "ingredient_type": "Baking"
+  },
+  {
+    "ingredient_name": "dried chilli flakes",
+    "ingredient_type": "Condiment"
+  },
+  {
+    "ingredient_name": "smoked paprika",
+    "ingredient_type": "Condiment"
+  },
+  {
+    "ingredient_name": "mustard powder",
+    "ingredient_type": "Condiment"
+  },
+  {
+    "ingredient_name": "fine sea salt",
+    "ingredient_type": "Condiment"
+  },
+  {
+    "ingredient_name": "ground black pepper",
+    "ingredient_type": "Condiment"
+  }, 
+  {
+    "ingredient_name": "pork fillet",
+    "ingredient_type": "Protein"
+  },
+  {
+    "ingredient_name": "water",
+    "ingredient_type": "Drink"
+  },
+  {
+    "ingredient_name": "barbecue sauce",
+    "ingredient_type": "Condiment"
+  },
+  {
+    "ingredient_name": "Dijon mustard",
+    "ingredient_type": "Condiment"
+  },
+  {
+    "ingredient_name": "cider vinegar",
+    "ingredient_type": "Condiment"
+  },
+  {
+    "ingredient_name": "brioche burger buns",
+    "ingredient_type": "Breads"
+  }, 
+  {
+    "ingredient_name": "cucumbers",
+    "ingredient_type": "Fruit"
+  },
+  {
+    "ingredient_name": "garlic cloves",
+    "ingredient_type": "Condiment"
+  },
+  {
+    "ingredient_name": "fresh dill",
+    "ingredient_type": "Condiment"
+  }, 
+  {
+    "ingredient_name": "greek style natural yogurt",
+    "ingredient_type": "Dairy"
+  }, 
+  {
+    "ingredient_name": "lemon juice",
+    "ingredient_type": "Fruit"
+  },
+  {
+    "ingredient_name": "extra virgin olive oil",
+    "ingredient_type": "Oil"
+  },
+  {
+    "ingredient_name": "cream cheese",
+    "ingredient_type": "Dairy"
+  },
+  {
+    "ingredient_name": "brown sugar",
+    "ingredient_type": "Sweets"
+  },
+  {
+    "ingredient_name": "vainilla",
+    "ingredient_type": "Baking"
+  }, 
+  {
+    "ingredient_name": "all-purpose flour",
+    "ingredient_type": "Baking"
+  },
+  {
+    "ingredient_name": "bittersweet chocolate chunks",
+    "ingredient_type": "Sweets"
+  }, 
+  {
+    "ingredient_name": "vainilla ice cream",
+    "ingredient_type": "Sweets"
+  },
+  {
+    "ingredient_name": "double cream",
+    "ingredient_type": "Dairy"
+  },
+  {
+    "ingredient_name": "cheddar cheese",
+    "ingredient_type": "Dairy"
+  }, 
+  {
+    "ingredient_name": "spring onions",
+    "ingredient_type": "Vegetable"
+  },
+  {
+    "ingredient_name": "dried parsley",
+    "ingredient_type": "Condiment"
+  }, 
+  {
+    "ingredient_name": "olive oil",
+    "ingredient_type": "oil"   
+  }, 
+  {
+    "ingredient_name": "bacon",
+    "ingredient_type": "Protein"
+  }, 
+  {
+    "ingredient_name": "fresh spinach",
+    "ingredient_type": "Vegetable"
+  }, 
+  {
+    "ingredient_name": "parmesan cheese",
+    "ingredient_type": "Dairy"
+  }, 
+  {
+    "ingredient_name": "fresh tarragon",
+    "ingredient_type": "Condiment"
+  }, 
+  {
+    "ingredient_name": "shallots",
+    "ingredient_type": "vegetable"
+  },
+  {
+    "ingredient_name": "tinned choped tomatoes",
+    "ingredient_type": "vegetable"
+  },
+  {
+    "ingredient_name": "risotto rice",
+    "ingredient_type": "Cereals"
+  }, 
+  {
+    "ingredient_name": "brandy",
+    "ingredient_type": "Drink"
+  }, 
+  {
+    "ingredient_name": "seafood broth",
+    "ingredient_type": "Condiment"
+  },
+  {
+    "ingredient_name": "ground cayenne pepper",
+    "ingredient_type": "Condiment"
+  },
+ {
+    "ingredient_name": "lobster tail meat",
+    "ingredient_type": "Protein"
+ }, 
+ {
+    "ingredient_name": "fresh chives",
+    "ingredient_type": "Condiment"
+ }, 
+ {
+    "ingredient_name": "mixed whole nuts",
+    "ingredient_type": "Condiment"
+ },
+ {
+    "ingredient_name": "rolled oats",
+    "ingredient_type": "Cereal"
+ },
+ {
+    "ingredient_name": "mixed seeds",
+    "ingredient_type": "Condiment"
+ },
+ {
+    "ingredient_name": "dried fruit",
+    "ingredient_type": "Fruit"
+ }, 
+ {
+    "ingredient_name": "maple syrup or hiney",
+    "ingredient_type": "Sweets"
+ }
+]
